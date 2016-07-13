@@ -1,4 +1,4 @@
-![Gray Area Logo](http://grayarea.org/wp-content/uploads/2015/08/ga-banner-logo-left-gray.png)
+![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/img/ga-banner-logo-left-gray.png)
 
 #CREATIVE CODE IMMERSIVE
 **SUMMER 2016 SESSION**  

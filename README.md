@@ -1,4 +1,2 @@
-<img src="http://grayarea.org/wp-content/uploads/2015/08/ga-banner-logo-left-gray.png
-" width="300">
-
+![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/Images/ga-banner-logo-left-gray-400.png)
 # EDUCUCATIONAL RESORUCES

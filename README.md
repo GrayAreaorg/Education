@@ -1,2 +1,2 @@
-![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/Images/ga-banner-logo-left-gray-400.png)
+![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/img/ga-banner-logo-left-gray.png)
 # EDUCUCATIONAL RESORUCES

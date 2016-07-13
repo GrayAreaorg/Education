@@ -22,7 +22,7 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  2 | P5.js | Chelley Sherman | 6/21 | 6/23 | 6/25	
  3 | Physical Computing | Mark Hellar | 6/28 |	6/30 | 7/2	
  4 | Node.JS | Mark Hellar | 7/5 | 7/7 | 7/9
- 5 | Installation Art & Development I 	|  Matt Ganucheau  | 7/12 | 7/14 | 7/16
+ 5 | [Installation Art & Development I](https://github.com/GrayAreaorg/Education/blob/master/Immersive/2016_Fall/Week_5_Installation_Art_I.md) 	|  Matt Ganucheau  | 7/12 | 7/14 | 7/16
  6 | Data Visualization | Matt Ganucheau | 7/19 | 7/21 | 7/23
  7 | Interactive Enviroments |	Mark Hellar | 8/2 | 8/4 | 8/6
  8 | Three.js | Marpi | 8/9 | 8/11 | 8/13 | 	

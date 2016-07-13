@@ -1,5 +1,4 @@
-<img src="http://grayarea.org/wp-content/uploads/2015/08/ga-banner-logo-left-gray.png
-" width="300">
+![GrayAreaLogo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/Images/ga-banner-logo-left-gray.png)
 
 CREATIVE CODE IMMERSIVE    
 SUMMER 2016 SESSION -  WEEK 4

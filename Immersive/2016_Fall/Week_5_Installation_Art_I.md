@@ -174,7 +174,8 @@ Be prepared to present this to the class on Saturday.
 
 #####Reveal.JS Resources
 * [Reveal.JS Tutorial](http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/)  
-* [Codepen Example](http://codepen.io/fabean/pen/NGjbaP)   
+* [Codepen Example](http://codepen.io/fabean/pen/NGjbaP)  
+* [Reveal.js + GitHub Pages](https://www.chenhuijing.com/blog/revealjs-and-github-pages/#🎹)
 
 <br>
 ## SESSION 3

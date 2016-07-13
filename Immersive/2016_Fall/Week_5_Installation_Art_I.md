@@ -28,6 +28,8 @@ This class will give an overview to the technologies taught as well as an introd
 ## SESSION 1
 
 ### 1.1 REVIEW 
+* [Whats Next](http://www.whatsnext.info/)
+* [DevDocs](https://devdocs.io/)
 * [Intro to HTML & CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
 * [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 * [P5.JS](http://www.p5js.org/)

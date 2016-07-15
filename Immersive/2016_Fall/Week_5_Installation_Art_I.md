@@ -120,7 +120,8 @@ Example:
 >![](https://raw.githubusercontent.com/GrayAreaorg/Summer-Immersive-2014/master/class_materials/wk8%20-%20Installations/img/software_example.png)
 	
 ##### ADDITIONAL RESOURCES
-* [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/exhibition/installation.html)  
+* [Performing Arts Additional Resources for Organizations and Artists](http://www.hewlett.org/grants/grantseekers/performing-arts-additional-resources-organizations-and-artists)
+* [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/exhibit	ion/installation.html)  
 * [KQED New Media Funding Resources](http://www.pbs.org/pov/filmmakers/new-media-funding-resources.php#.U-QSNtNdWyg)  
 * [MassArt: Grant Proposal Toolbox](http://inside.massart.edu/Administration/Institutional_Advancement/Office_of_Institutional_Grants/III_Grant_Proposal_Toolbox_.html)  
 * [The Artist's Guide to Grant Writing by Gigi Rosenberg](http://www.amazon.com/The-Artists-Guide-Grant-Writing/dp/0823000702)  
@@ -155,10 +156,22 @@ Recall and an impactful experience from your past. Explore a new way to bring th
 <br>
 ## SESSION 2
 ### 2.1 FACILITIES & RESOURCES
-### 2.2 REVIEW ASSIGNEMNT #1
-### 2.4 DOCUMENTING QUESTIONS
-Spend 10 minutes uninterupted documenting as many questions possibl about your propsed work.
 
+### 2.2 REVIEW ASSIGNEMNT #1
+
+### 2.4 DOCUMENTING QUESTIONS
+Spend 10 minutes uninterupted documenting as many questions possible about your propsed work.
+
+
+### 2.6 ADDITIONAL PROTOTYPING TOOLS
+
+1. [Makey Makey](http://makeymakey.com/) / [MK-1 Sampler](https://ericrosenbaum.github.io/MK-1/)  
+2. [Leap Motion](https://www.leapmotion.com/)  
+3. [FaceTracker](http://facetracker.net/)  
+4. [CCV (Community Core Vision)](http://ccv.nuigroup.com/#home)   
+5. [TSPS (Toolkit for Sensing People in Spaces)](http://www.tsps.cc/)
+ 
+<br>
 ### 2.5 ASSIGNMENT #2  
 
 Using the following outline, create a 10 - 15 minute presentation with **[Reveal.JS](https://github.com/hakimel/reveal.js/)**  

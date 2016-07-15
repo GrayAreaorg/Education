@@ -24,11 +24,11 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  4 | Node.JS | Mark Hellar | 7/5 | 7/7 | 7/9
  5 | [Installation Art & Development I](https://github.com/GrayAreaorg/Education/blob/master/Immersive/2016_Fall/Week_5_Installation_Art_I.md) 	|  Matt Ganucheau  | 7/12 | 7/14 | 7/16
  6 | Data Visualization | Matt Ganucheau | 7/19 | 7/21 | 7/23
- 7 | Interactive Enviroments |	Mark Hellar | 8/2 | 8/4 | 8/6
- 8 | Three.js | Marpi | 8/9 | 8/11 | 8/13 | 	
- 9 | Installation Art & Development II |	Mark Hellar | 8/16 | 8/18 | 8/20
- 10 | Projection Mapping |	Taurin Baurerra |	8/23 | 8/25 | 8/27	
- 11 |	Break for Development
+ 7 | Interactive Enviroments |	Mark Hellar | 7/26 | 7/28 | 7/30
+ 8 | Three.js | Marpi | 8/2 | 8/4 | 8/6 | 	
+ 9 | Installation Art & Development II |	Mark Hellar | 8/9 | 8/11 | 8/13
+ 10 | Projection Mapping |	Taurin Baurerra |	8/16 | 8/18 | 8/20	
+ 11 |	Break for Development |	
 
 #####INSTALLATION: 
 Tuesday August 30th (Time TBD)
@@ -85,7 +85,7 @@ In addition to the technical objectives listed, each class contains artistic pro
 * How to integrate IoT devices into your work
 * Opportunity to test interactions with the public
 
-#####Installation Art II with Matthew Ganucheau
+#####Installation Art II with Mark Hellar
 * Development and presentation of a prototype for the showcase
 * Group Critique with guests artists
 * Workplan Assessment
@@ -107,5 +107,5 @@ In addition to the technical objectives listed, each class contains artistic pro
 * Students, TAs and Teachers have access to book the Gray Area Classroom to develop their project for the Showcase.
 
 #####Showcase Event:  	
-**Wednesday, December 9th**
+**Wednesday, August 31st (7pm - 10pm)**
 

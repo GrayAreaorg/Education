@@ -89,8 +89,7 @@ This class will give an overview to the technologies taught as well as an introd
 <br>
 ### 1.4 GRANT WRITTING
 
-Example:  
-[Ganucheau - The Giving Tree Proposal for Burning Man 2007 (sans budget)](https://dl.dropboxusercontent.com/u/57158100/The%20Giving%20Tree%20-%20Burning%20Man%202007%20%28sans%20budget%29.pdf) 
+Example: [Ganucheau - The Giving Tree Proposal for Burning Man 2007 (sans budget)](https://dl.dropboxusercontent.com/u/57158100/The%20Giving%20Tree%20-%20Burning%20Man%202007%20%28sans%20budget%29.pdf) 
 
 <br>	
 >**Elevator Pitch (1 paragraph)**  
@@ -121,7 +120,7 @@ Example:
 	
 ##### ADDITIONAL RESOURCES
 * [Performing Arts Additional Resources for Organizations and Artists](http://www.hewlett.org/grants/grantseekers/performing-arts-additional-resources-organizations-and-artists)
-* [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/exhibit	ion/installation.html)  
+* [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/exhibition/installation.html)  
 * [KQED New Media Funding Resources](http://www.pbs.org/pov/filmmakers/new-media-funding-resources.php#.U-QSNtNdWyg)  
 * [MassArt: Grant Proposal Toolbox](http://inside.massart.edu/Administration/Institutional_Advancement/Office_of_Institutional_Grants/III_Grant_Proposal_Toolbox_.html)  
 * [The Artist's Guide to Grant Writing by Gigi Rosenberg](http://www.amazon.com/The-Artists-Guide-Grant-Writing/dp/0823000702)  
@@ -157,10 +156,12 @@ Recall and an impactful experience from your past. Explore a new way to bring th
 ## SESSION 2
 ### 2.1 FACILITIES & RESOURCES
 
+[2016 Summer Showcase Staging Map](https://docs.google.com/drawings/d/1uaV_wuW_xTHvOFLu4x-gqzbQlLOeBt3GjE_tnJCaMpI/edit)
+
 ### 2.2 REVIEW ASSIGNEMNT #1
 
 ### 2.4 DOCUMENTING QUESTIONS
-Spend 10 minutes uninterupted documenting as many questions possible about your propsed work.
+Spend 15 minutes uninterupted documenting as many questions possible about your propsed work.
 
 
 ### 2.6 ADDITIONAL PROTOTYPING TOOLS

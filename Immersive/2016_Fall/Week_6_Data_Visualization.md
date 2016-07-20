@@ -53,7 +53,7 @@ This section will focus on the essential skills needed to explore modern data vi
 * [TED playlist: Adventures in Mapping](http://www.ted.com/playlists/138/adventures_in_mapping)
 
 ### 1.1 REVISITNG ARRAYS 
-* [Arrays by Casey Reas and Ben Fry](https://processing.org/tutorials/arrays/)
+* [JavaScript-basics: Arrays](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 
 #####P5 Examples
 * [Array](https://p5js.org/examples/examples/Arrays_Array.php)

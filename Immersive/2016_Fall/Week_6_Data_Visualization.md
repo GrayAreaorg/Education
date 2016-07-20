@@ -1,7 +1,7 @@
 ![GrayAreaLogo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/img/ga-banner-logo-left-gray.png)
 
 CREATIVE CODE IMMERSIVE    
-SUMMER 2016 SESSION -  WEEK 5
+SUMMER 2016 SESSION -  WEEK 6
 
 ---
 

@@ -27,11 +27,12 @@ This section will focus on the essential skills needed to explore modern data vi
 <br>
 ## SESSION 1
 
-### 1.1 WHY DATA VIZUALIZATION?
+### 1.1 WHY DATA VIZ?
 
 #####History
 * [Charles Joseph Minard -  Russian campaign of 1812](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
 * [Florence Nightengale: Mortality](https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg)
+* [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)
 
 #####Telling stories
 * [Jerome Cukier: Events in the Game of Thrones](http://www.jeromecukier.net/projects/agot/events.html)

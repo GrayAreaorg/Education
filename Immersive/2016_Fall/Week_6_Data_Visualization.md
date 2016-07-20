@@ -30,7 +30,7 @@ This section will focus on the essential skills needed to explore modern data vi
 ### 1.1 WHY DATA VIZUALIZATION?
 
 #####History
-* [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
+* [Charles Joseph Minard -  Russian campaign of 1812](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
 * [Florence Nightengale: Mortality](https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg)
 
 #####Telling stories

@@ -162,15 +162,6 @@ Recall and an impactful experience from your past. Explore a new way to bring th
 
 ### 2.4 DOCUMENTING QUESTIONS
 Spend 15 minutes uninterupted documenting as many questions possible about your propsed work.
-
-
-### 2.6 ADDITIONAL PROTOTYPING TOOLS
-
-1. [Makey Makey](http://makeymakey.com/) / [MK-1 Sampler](https://ericrosenbaum.github.io/MK-1/)  
-2. [Leap Motion](https://www.leapmotion.com/)  
-3. [FaceTracker](http://facetracker.net/)  
-4. [CCV (Community Core Vision)](http://ccv.nuigroup.com/#home)   
-5. [TSPS (Toolkit for Sensing People in Spaces)](http://www.tsps.cc/)
  
 <br>
 ### 2.5 ASSIGNMENT #2  
@@ -194,8 +185,13 @@ Be prepared to present this to the class on Saturday.
 <br>
 ## SESSION 3
 ### 3.1 GROUP PRESENTATIONS
-### 3.2 WORKPLAN ASSESMENT
 
+### 3.2 GITHUB PAGES REVIEW
 
+* [Github Pages](https://pages.github.com/)
+
+### 3.3 ADDITIONAL PROTOTYPING TOOLS
+1. [Makey Makey](http://makeymakey.com/) / [MK-1 Sampler](https://ericrosenbaum.github.io/MK-1/)
+2. [DAT.GUI](https://code.google.com/archive/p/dat-gui/)
 
 

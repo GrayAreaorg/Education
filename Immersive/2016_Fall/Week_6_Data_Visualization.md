@@ -50,7 +50,11 @@ This section will focus on the essential skills needed to explore modern data vi
 #####Inspirations
 * [Aaron Koblin: Visualizing ourselves ... with crowd-sourced data](https://www.ted.com/talks/aaron_koblin)
 * [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
-* [TED playlist: Adventures in Mapping](http://www.ted.com/playlists/138/adventures_in_mapping)
+* [TED playlist: Adventures in Mapping](http://www.ted.com/playlists/138/adventures_in_mapping)   
+  
+#####Additions
+* [Moshpit Simulator](https://mattbierbaum.github.io/moshpits.js/)  
+* [Entropy Explianed with Sheep](https://aatishb.github.io/entropy/)
 
 ### 1.1 REVISITNG ARRAYS 
 * [JavaScript-basics: Arrays](https://github.com/processing/p5.js/wiki/JavaScript-basics)
@@ -60,6 +64,8 @@ This section will focus on the essential skills needed to explore modern data vi
 * [Array 2D](https://p5js.org/examples/examples/Arrays_Array_2D.php)
 * [Array Objects](https://p5js.org/examples/examples/Arrays_Array_Objects.php)
 * [Array of Objects](https://p5js.org/examples/examples/Objects_Array_of_Objects.php)
+* [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js/tree/master): Example 9-9: An array of Car objects
+
 
 ### 1.2 ESSENTIAL TERMS
 
@@ -78,6 +84,7 @@ This section will focus on the essential skills needed to explore modern data vi
 * [Chrome JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 * [Coropa](https://github.com/dariusk/corpora)
 * [LoadJSON](https://p5js.org/reference/#/p5/loadJSON)
+
 
 ### 1.4 DAT.GUI
 * [dat.gui Github](https://github.com/dataarts/dat.gui)

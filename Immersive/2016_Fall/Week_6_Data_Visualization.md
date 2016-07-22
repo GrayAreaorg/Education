@@ -92,6 +92,11 @@ This section will focus on the essential skills needed to explore modern data vi
 * [Dat-gui - Simple UI for Demos](http://learningthreejs.com/blog/2011/08/14/dat-gui-simple-ui-for-demos/)
 * [p5 sound examples](https://github.com/b2renger/p5js_p5sound_examples)
 
+
+**[p5.js Example](https://github.com/GrayAreaorg/Education/tree/master/Immersive/2016_Fall/Week_6_Examples/DATgui_Example)**
+
+
+
 ### 1.6 ASSIGNEMNT #1
 ##### EXERCISE:
  

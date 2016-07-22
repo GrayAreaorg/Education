@@ -124,15 +124,17 @@ Select a single data set (i.e. [Coropa](https://github.com/dariusk/corpora)) and
 
 ### 2.3 AUTOMATE LOADING
 
-[setTimeout, setInterval](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)
+[setTimeout & setInterval](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)
 
 ### 2.3 ASSIGNMENT #TBD  
 
 Pair up in a team of 2 or 3 people.  
-Select an API ([Useful APIs](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)).
+Select an API ([Useful APIs](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON#useful-apis)).
 Create a comparative visualziation between two data points with a user input field.
 
 Bonus: using setInterval, have the visualziation randomly change with out the user's input.
+
+
 
 #####Readings: 
 * [Jer Thorp Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)

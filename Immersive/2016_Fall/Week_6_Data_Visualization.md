@@ -103,11 +103,35 @@ Select a single data set (i.e. [Coropa](https://github.com/dariusk/corpora)) and
 
 <br>
 ## SESSION 2
-### 2.1 ASYCRONICITY
+### 2.1 JSON REVIEW
+
+
 ### 2.2 REALTIME DATA WITH APIS
 #####API QUERYS
-#####API PARSING
+	http://mysite.com/?____ =___&___=___&___=___&___
+
+[Open Weather Map](https://home.openweathermap.org)
+
+
+### 2.3 ADDING A USER INPUT
+
+[Element Specific Listeners](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)
+
+### 2.3 AUTOMATE LOADING
+
+[setTimeout, setInterval](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)
+
 ### 2.3 ASSIGNMENT #TBD  
+
+Pair up in a team of 2 or 3 people.  
+Select an API ([Useful APIs](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events#settimeout-setinterval)).
+Create a comparative visualziation between two data points with a user input field.
+
+Bonus: using setInterval, have the visualziation randomly change with out the user's input.
+
+#####Readings: 
+* [Jer Thorp Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
+* [One Chart, Twelve Charting Libraries](https://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 
 <br>
 ## SESSION 3

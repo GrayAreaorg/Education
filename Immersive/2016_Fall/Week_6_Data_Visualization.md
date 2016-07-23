@@ -145,15 +145,15 @@ Bonus: using setInterval, have the visualziation randomly change with out the us
 
 <br>
 ## SESSION 3
-### 3.2 GRAPHING CSV DATA
+### 3.1 GRAPHING CSV DATA
 
-### 3.1 REVIEW of APIs
+### 3.2 REVIEW of APIs
 
-### 3.1 CONTINUE GROUP DEVELOPMENT
+### 3.3 CONTINUE GROUP PROJECT
 
 Break
 
-### 3.3INTRODUCTION to D3
+### 3.3 INTRODUCTION to D3
 
 
 

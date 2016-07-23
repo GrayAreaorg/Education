@@ -128,13 +128,16 @@ Select a single data set (i.e. [Coropa](https://github.com/dariusk/corpora)) and
 
 ### 2.3 ASSIGNMENT #TBD  
 
-Pair up in a team of 2 or 3 people.  
+Pair up into teams of 2 people.  
 Select an API ([Useful APIs](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON#useful-apis)).
 Create a comparative visualziation between two data points with a user input field.
 
 Bonus: using setInterval, have the visualziation randomly change with out the user's input.
 
 
+#####Examples:
+* [P5.js + Giphy]( )  
+* [P5.js + Giphy: Communist Manifesto](http://lav.io/2013/12/communist-manifesto-in-animated-gifs/)
 
 #####Readings: 
 * [Jer Thorp Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
@@ -142,8 +145,14 @@ Bonus: using setInterval, have the visualziation randomly change with out the us
 
 <br>
 ## SESSION 3
-### 3.1 CLEANING DATA
-###### Underscore.js 
+### 3.2 GRAPHING CSV DATA
+
+### 3.1 REVIEW of APIs
+
+### 3.1 CONTINUE GROUP DEVELOPMENT
+
+Break
+
 ### 3.3INTRODUCTION to D3
 
 
